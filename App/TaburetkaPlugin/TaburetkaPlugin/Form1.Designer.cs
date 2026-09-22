@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp1
+﻿namespace TaburetkaPlugin
 {
     partial class Form1
     {
